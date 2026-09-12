@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Lost Media - Mi primer encarta ツ
+### Lost Media - Mi primera encarta ツ
 
 In 2009, there was a quick wiki for anyone in latinamerica.<br />
 Original activities, familiar sounds and more stuff to try.
