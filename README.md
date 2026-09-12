@@ -11,7 +11,7 @@ Original activities, familiar sounds and more stuff to try.
 
 **[🌎 Use *Mi primer encarta*](pending.com)**
 
-[What's in?](#-un-mundo-por-descubrir) · [Credits](#-hecho-con-curiosidad) · [How to run it?](#-detrás-del-cristal) · [Security](.github/SECURITY.md)
+[What's in?](#-un-mundo-por-descubrir) · [Credits](#-hecho-con-curiosidad) · [Security](.github/SECURITY.md)
 </div>
 
 <img src=".github/assets/aero-divider.svg" width="100%" alt="" />
