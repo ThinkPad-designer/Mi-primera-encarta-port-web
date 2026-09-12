@@ -16,7 +16,7 @@ Original activities, familiar sounds and more stuff to try.
 
 <img src=".github/assets/aero-divider.svg" width="100%" alt="" />
 
-## 🌱 Description
+## Description
 
 This port recovers every **original activities content in "Mi primera Encarta 2009"**, included in Microsoft Student with Encarta Premium 2009, using **Ruffle**. Cover keeps same orange background, 10 buttons, blue menus and the original green bar.
 
@@ -38,12 +38,6 @@ Experimental adaption of activities, this is not a full recovery of *encarta*. T
 **From first file to publish were aproximately : 2 h 37 min.**<br />
 
 This is an independent project, without affiliation to or endorsement by Microsoft. Encarta and the original resources belong to their respective owners; this port does not make them free content or assign them a new license. 
-
-<img src=".github/assets/aero-divider.svg" width="100%" alt="" />
-
-## 💎 Detrás del cristal
-
-La web publicada funciona como un sitio estático. No requiere iniciar sesión ni instalar el Flash Player antiguo. Los gráficos de este README son SVG locales, sin scripts, fuentes remotas ni servicios de imágenes externos.
 
 <img src=".github/assets/aero-divider.svg" width="100%" alt="" />
 
