@@ -1,0 +1,43 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1997, Microsoft Corporation">
+	<Title>Encarta Closed Captions</Title>
+	<SAMIParam Length=20433 TimeStamp="msec">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt;  font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: center;}
+		-->
+	</Style>
+</Head>
+<BODY TEXT="#FFFFFF">
+	<TABLE WIDTH=240><TD BGCOLOR="Black">
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Elvis Presley singing</P>
+		<P Class=ENUSCC align=center>Well, since my baby left me</P>
+	</SYNC>
+	<SYNC Start=2733>
+		<P Class=ENUSCC align=center>Well, I found a new place to dwell</P>
+	</SYNC>
+	<SYNC Start=5266>
+		<P Class=ENUSCC align=center>Well, it's down at the end of lonely street</P>
+	</SYNC>
+	<SYNC Start=8066>
+		<P Class=ENUSCC align=center>at Heartbreak Hotel</P>
+	</SYNC>
+	<SYNC Start=9966>
+		<P Class=ENUSCC align=center>Well, I'm... I'm so lonely, baby</P>
+	</SYNC>
+	<SYNC Start=13600>
+		<P Class=ENUSCC align=center>Well, I'm so lonely</P>
+	</SYNC>
+	<SYNC Start=16433>
+		<P Class=ENUSCC align=center>I'm so lonely, I could die.</P>
+	</SYNC>
+	<SYNC Start=20400 Duration=33>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Table></Body>
+</SAMI>
+

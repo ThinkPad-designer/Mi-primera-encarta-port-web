@@ -1,0 +1,41 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>Encarta(NA) Closed Captions</Title>
+	<SAMIParam Length=31899 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt;  font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>The Beach Boys singing</P>
+		<P Class=ENUSCC align=left>I'm picking up good vibrations</P>
+	</SYNC>
+	<SYNC Start=4066>
+		<P Class=ENUSCC align=left>She's giving me the excitations</P>
+	</SYNC>
+	<SYNC Start=7333>
+		<P Class=ENUSCC align=left>I'm picking up good vibrations</P>
+	</SYNC>
+	<SYNC Start=10500>
+		<P Class=ENUSCC align=left>She's giving me the excitations</P>
+	</SYNC>
+	<SYNC Start=13266>
+		<P Class=ENUSCC align=left>Good, good, good, good vibrations</P>
+	</SYNC>
+	<SYNC Start=19700>
+		<P Class=ENUSCC align=left>Good, good, good, good vibrations</P>
+	</SYNC>
+	<SYNC Start=25366>
+		<P Class=ENUSCC align=left>Excitation...</P>
+	</SYNC>
+	<SYNC Start=31866>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

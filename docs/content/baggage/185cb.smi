@@ -1,0 +1,29 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>Tanzania: Wagogo Initiation Music</Title>
+	<SAMIParam Length=35333 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Fanshawe One World Music</P>
+		<P Class=ENUSCC align=left><i>(drums pounding, women singing)</i></P>
+	</SYNC>
+	<SYNC Start=15000>
+		<P Class=ENUSCC align=left><i>(singing and drums pounding continuing)</i></P>
+	</SYNC>
+	<SYNC Start=30000>
+		<P Class=ENUSCC align=left><i>(singing and drums pounding continuing)</i></P>
+	</SYNC>
+	<SYNC Start=35300>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

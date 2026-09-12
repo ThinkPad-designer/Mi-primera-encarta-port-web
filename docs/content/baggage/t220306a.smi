@@ -1,0 +1,23 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>EncartaZ Closed Captions</Title>
+	<SAMIParam Length=11133 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Sound Effects</P>
+		<P Class=ENUSCC align=left><i>(bears huffing and puffing)</i></P>
+	</SYNC>
+	<SYNC Start=11100>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

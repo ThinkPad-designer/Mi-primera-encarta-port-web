@@ -1,0 +1,24 @@
+# Source media and extracted proprietary content stay local.
+*.iso
+local-source/
+local-content/
+tools/
+node_modules/
+dist/
+*.log
+web/public/content/
+web/public/ruffle/
+docs/
+research/*.bin
+research/decompiled*/
+research/patch-*/
+research/debug-*/
+research/verify-*/
+research/*.swf
+flashlib/
+logs/
+.env
+.env.*
+!.env.example
+web/.openai/
+*.tsbuildinfo

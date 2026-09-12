@@ -1,0 +1,50 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 2000, Microsoft Corporation">
+	<Title>EncartaZ</Title>
+	<SAMIParam Length=29133 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt;  font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Creedence Clearwater Revival</P>
+		<P Class=ENUSCC align=left>Some folks are born made to wave the flag</P>
+	</SYNC>
+	<SYNC Start=4400>
+		<P Class=ENUSCC align=left>Whoo, they're red, white and blue</P>
+	</SYNC>
+	<SYNC Start=7966>
+		<P Class=ENUSCC align=left>And when the band plays "Hail to the Chief"</P>
+	</SYNC>
+	<SYNC Start=11400>
+		<P Class=ENUSCC align=left>Ooh, they point the cannon at you, Lord.</P>
+	</SYNC>
+	<SYNC Start=15166>
+		<P Class=ENUSCC align=left>It ain't me</P>
+	</SYNC>
+	<SYNC Start=17033>
+		<P Class=ENUSCC align=left>It ain't me</P>
+	</SYNC>
+	<SYNC Start=18600>
+		<P Class=ENUSCC align=left>I ain't no senator's son, son</P>
+	</SYNC>
+	<SYNC Start=22200>
+		<P Class=ENUSCC align=left>It ain't me</P>
+	</SYNC>
+	<SYNC Start=24166>
+		<P Class=ENUSCC align=left>It ain't me</P>
+	</SYNC>
+	<SYNC Start=25766>
+		<P Class=ENUSCC align=left>I ain't no fortunate one, no.</P>
+	</SYNC>
+	<SYNC Start=29100>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

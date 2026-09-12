@@ -1,0 +1,29 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>Ireland: Popular Music</Title>
+	<SAMIParam Length=44966 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Altan</P>
+		<P Class=ENUSCC align=left><i>(woman singing with guitar accompaniment)</i></P>
+	</SYNC>
+	<SYNC Start=16000>
+		<P Class=ENUSCC align=left><i>(singing and playing continuing)</i></P>
+	</SYNC>
+	<SYNC Start=32000>
+		<P Class=ENUSCC align=left><i>(singing and playing continuing)</i></P>
+	</SYNC>
+	<SYNC Start=44933>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

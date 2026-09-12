@@ -1,0 +1,28 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1997, Microsoft Corporation">
+	<Title>Encarta Closed Captions</Title>
+	<SAMIParam Length=9599 TimeStamp="msec">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt;  font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: center;}
+		-->
+	</Style>
+</Head>
+<BODY TEXT="#FFFFFF">
+	<TABLE WIDTH=240><TD BGCOLOR="Black">
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Sound Effects</P>
+		<P Class=ENUSCC align=center>( <i>grunting</i> )</P>
+	</SYNC>
+	<SYNC Start=3666>
+		<P Class=ENUSCC align=center>( <i>crowd cheers</i> )</P>
+	</SYNC>
+	<SYNC Start=9566 Duration=33>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Table></Body>
+</SAMI>
+

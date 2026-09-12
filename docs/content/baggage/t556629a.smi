@@ -1,0 +1,26 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>Estonia: Traditional Music</Title>
+	<SAMIParam Length=27899 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Salme Parg</P>
+		<P Class=ENUSCC align=left><i>(woman singing folk song a cappella)</i></P>
+	</SYNC>
+	<SYNC Start=15000>
+		<P Class=ENUSCC align=left><i>(a cappella singing continuing)</i></P>
+	</SYNC>
+	<SYNC Start=27866>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

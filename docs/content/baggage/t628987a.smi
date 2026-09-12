@@ -1,0 +1,39 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1998, Microsoft Corporation">
+	<Title>Encarta Closed Captions</Title>
+	<SAMIParam Length=21099 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt;  font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English Captions; lang: en-US-CC; color: white;}
+		#Source {margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>John Young</P>
+		<P Class=ENUSCC align=left>Ah, this is going to be some kind of different ride.</P>
+	</SYNC>
+	<SYNC Start=4666>
+		<P Class=ENUSCC ID=Source>Charles Duke</P>
+		<P Class=ENUSCC align=left>Well, Tony, that's your "house rock" right there.</P>
+	</SYNC>
+	<SYNC Start=7933>
+		<P Class=ENUSCC ID=Source>Anthony England</P>
+		<P Class=ENUSCC align=left>Very good.</P>
+	</SYNC>
+	<SYNC Start=8700>
+		<P Class=ENUSCC ID=Source>Harrison Schmitt</P>
+		<P Class=ENUSCC align=left>...down to about, uh...  three centimeters, is in bag 569.</P>
+	</SYNC>
+	<SYNC Start=15266>
+		<P Class=ENUSCC ID=Source>Eugene Cernan</P>
+		<P Class=ENUSCC align=left>Hippity-hoppity, hippity-hoppity, hippity-hopping over hill and dale.</P>
+	</SYNC>
+	<SYNC Start=21066 Duration=33>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

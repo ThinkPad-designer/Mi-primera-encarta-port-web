@@ -1,0 +1,11 @@
+{
+  "name": "mi-primera-encarta-port",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix web run dev",
+    "preview": "node scripts/preview-pages.mjs",
+    "check": "npm --prefix web run check && node --experimental-strip-types scripts/verify-content.mjs",
+    "build": "npm --prefix web run build",
+    "export": "npm run check && npm run build && node scripts/export-pages.mjs"
+  }
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?><quiz type="multichoice" id="900" lang="E" hascredits="1"><question><text>&lt;html&gt;¿Sabes cuál &lt;b&gt;no&lt;/b&gt; es un nutriente esencial?
+
+&lt;/html&gt;</text><image w="153" h="136">T037891A.jpg</image><imagerefid>1B82D57F</imagerefid><audio/><audiorefid/></question><answers correct="3"><answer id="1"><text>&lt;html&gt;Proteínas&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="2"><text>&lt;html&gt;Hidratos de carbono&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="3"><text>&lt;html&gt;Toxinas&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="4"><text>&lt;html&gt;Grasas&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer></answers><reward><text>&lt;html&gt;Toxinas.&lt;br&gt;&lt;br&gt;Los nutrientes esenciales son las grasas, los hidratos de carbono, las proteínas, las vitaminas y los minerales. Las toxinas son venenos.
+
+
+
+&lt;/html&gt;</text><image w="149" h="149"/><imagerefid/><audio/><audiorefid/></reward><credits>Photo Researchers, Inc./Charles D. Winters</credits><rewardcredits/></quiz>

@@ -1,0 +1,26 @@
+<SAMI>
+<Head>
+	<Copyright="(C)Copyright 1999, Microsoft Corporation">
+	<Title>Chile: Modern Folk Music</Title>
+	<SAMIParam Length=26766 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Inti-Illimani</P>
+		<P Class=ENUSCC align=left><i>(flute and strings playing lively tune)</i></P>
+	</SYNC>
+	<SYNC Start=15666>
+		<P Class=ENUSCC align=left><i>(lively tune continuing)</i></P>
+	</SYNC>
+	<SYNC Start=26733>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

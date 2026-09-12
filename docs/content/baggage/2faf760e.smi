@@ -1,0 +1,22 @@
+<SAMI>
+<Head>
+	<Title>P rt: Symfoni nr 3</Title>
+	<SAMIParam Length=40133 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Music</P>
+		<P Class=ENUSCC align=left>( <i>orchestra playing bouncy, strongly accented melody</i> )</P>
+	</SYNC>
+	<SYNC Start=40100>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

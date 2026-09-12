@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?><quiz type="multichoice" id="854" lang="E" hascredits="1"><question><text>&lt;html&gt;¿Cuántos huesos tiene un bebé al nacer?
+
+&lt;/html&gt;</text><image w="149" h="99">000f1d72.jpg</image><imagerefid>29D1BE2D</imagerefid><audio/><audiorefid/></question><answers correct="3"><answer id="1"><text>&lt;html&gt;50&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="2"><text>&lt;html&gt;3.000&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="3"><text>&lt;html&gt;350&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="4"><text>&lt;html&gt;1.475&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer></answers><reward><text>&lt;html&gt;350. &lt;br&gt;&lt;br&gt;Los bebés tienen 350 huesos al nacer. Cuando el bebé crece algunos de estos huesos se fusionan. En los adultos hay 206 huesos.
+
+&lt;/html&gt;</text><image w="149" h="99">000f1d72.jpg</image><imagerefid>29D1BE2D</imagerefid><audio/><audiorefid/></reward><credits>Phototake NYC/Yoav Levy</credits><rewardcredits>Phototake NYC/Yoav Levy</rewardcredits></quiz>

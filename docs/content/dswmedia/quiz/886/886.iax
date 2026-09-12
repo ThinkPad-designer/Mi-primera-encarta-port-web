@@ -1,0 +1,4 @@
+﻿<?xml version="1.0"?><quiz type="multichoice" id="886" lang="E" hascredits="1"><question><text>&lt;html&gt;¿Crees que si perdiésemos la nariz podríamos oler?
+&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></question><answers correct="1"><answer id="1"><text>&lt;html&gt;Si&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer><answer id="2"><text>&lt;html&gt;No&lt;/html&gt;</text><image/><imagerefid/><audio/><audiorefid/></answer></answers><reward><text>&lt;html&gt;Si.&lt;br&gt;&lt;br&gt;El órgano del olfato se localiza en una zona muy profunda de la cavidad nasal. Allí están las células olfatorias que recogen información sobre los olores y la llevan al cerebro a través del nervio olfatorio.
+
+&lt;/html&gt;</text><image w="149" h="149">00102253.jpg</image><imagerefid>29D22C1F</imagerefid><audio/><audiorefid/></reward><credits/><rewardcredits>© Microsoft Corporation. Reservados todos los derechos.</rewardcredits></quiz>

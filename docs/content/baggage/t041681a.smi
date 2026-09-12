@@ -1,0 +1,28 @@
+<SAMI>
+<Head>
+	<Title>National anthem for Saint Kitts and Nevis</Title>
+	<SAMIParam Length=39033 TimeStamp="ms">
+	<STYLE TYPE="text/css">
+		<!--
+		P {font-size: 10pt; font-family: sans-serif; font-weight: bold;}
+		.ENUSCC {margin-left: 0; Name: English_Captions; lang: en-US-CC; color: white;}
+		#Source {{margin-left: 0; font-family: sans-serif; color: silver; text-align: left;}
+		-->
+	</Style>
+</Head>
+	<SYNC Start=0>
+		<P Class=ENUSCC ID=Source>Music</P>
+		<P Class=ENUSCC align=left><i>(band playing stately anthem)</i></P>
+	</SYNC>
+	<SYNC Start=16000>
+		<P Class=ENUSCC align=left><i>(anthem playing continuing)</i></P>
+	</SYNC>
+	<SYNC Start=32000>
+		<P Class=ENUSCC align=left><i>(anthem playing continuing)</i></P>
+	</SYNC>
+	<SYNC Start=39000>
+		<P Class=ENUSCC>&nbsp;</P>
+	</SYNC>
+</Body>
+</SAMI>
+

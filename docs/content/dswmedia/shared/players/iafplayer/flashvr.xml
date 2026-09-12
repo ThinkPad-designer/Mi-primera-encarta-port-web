@@ -1,0 +1,12 @@
+﻿<FLASHVR 
+	regname="Microsoft - Jolene Smallwood"
+	initscene="scene1" 
+	barwidth="0" barheight="0" barx="0" bary="0" barcolor="000077" 
+	wait="controls/preloader.swf" waitcolor="FFFFFF"
+	showmenu="on" menusrc="controls/flashvr_menu.swf" menux="0" menuy="0"
+	stopquality="HIGH"
+	panquality="LOW"
+	waitalign="EDGE"
+	waitfade="20"
+	>
+</FLASHVR>
