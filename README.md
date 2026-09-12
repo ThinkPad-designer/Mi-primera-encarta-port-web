@@ -1,5 +1,8 @@
 # Mi primera Encarta 2009 · Port web experimental
 
+**Web:** https://mothicc.github.io/mi-primer-encarta/  
+**Repositorio:** https://github.com/Mothicc/mi-primer-encarta
+
 Adaptación de las **actividades originales** de la ISO `Microsoft Student con Encarta Premium 2009 [ESP].iso`. Utiliza los archivos de `EE/KIDS` y el reproductor Flash original con Ruffle 0.6.0.
 
 La portada reproduce el diseño original: fondo naranja y logotipo de la ISO, los diez botones con sus estados de mouse, menús azules y barra verde. Los controles gráficos y sonidos se extraen de `ENCARTAR.DLL`; las posiciones de la portada siguen `mainhome_kids.xsl`.
@@ -36,13 +39,13 @@ Esto verifica el contenido, compila y genera **`docs/`**, con HTML, JavaScript, 
 
 El paquete actual ocupa unos 248 MiB. Para probar exactamente esa salida en una subcarpeta y con rutas sensibles a mayúsculas, ejecuta `npm run preview` y abre `http://127.0.0.1:4173/encarta/`.
 
-Para publicar este paquete en tu repositorio:
+GitHub Pages está configurado para publicar desde **`main` → `/docs`**. Para actualizarlo después de hacer cambios:
 
-1. Añade explícitamente la carpeta generada: `git add -f docs`.
-2. Haz commit y push a tu repositorio de GitHub.
-3. En **Settings → Pages → Build and deployment**, selecciona **Deploy from a branch**, tu rama y **`/docs`**.
+1. Ejecuta `npm run export`.
+2. Añade el código modificado y la salida generada: `git add -f docs`.
+3. Haz commit y `git push origin main`. GitHub publicará la actualización automáticamente.
 
-`docs/` está ignorada hasta que decidas incorporarla. No subas la ISO, `local-source/`, `local-content/` ni `tools/`. No se ha creado un repositorio remoto ni publicado el sitio automáticamente.
+`docs/` está incorporada al repositorio. La regla de exclusión se conserva para que los nuevos recursos se añadan explícitamente al exportar. No subas la ISO, `local-source/`, `local-content/` ni `tools/`.
 
 La publicación contiene recursos de tu edición de Microsoft; la adaptación no cambia su titularidad ni los convierte en contenido libre. El código y el contenido extraído se mantienen separados.
 
