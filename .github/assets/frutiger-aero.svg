@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Mi primera Encarta · Porteado por Astra</title>
+  <desc id="desc">Un mundo de curiosidad. Cielo azul, colinas verdes, un planeta de cristal y burbujas, con estética Frutiger Aero.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#087dc1"/><stop offset=".52" stop-color="#51d4f2"/><stop offset="1" stop-color="#e4ffff"/></linearGradient>
+    <linearGradient id="hill" x2=".3" y2="1"><stop stop-color="#c0fa40"/><stop offset=".35" stop-color="#65cb19"/><stop offset="1" stop-color="#187e3f"/></linearGradient>
+    <linearGradient id="glass" x2=".3" y2="1"><stop stop-color="#fff" stop-opacity=".88"/><stop offset=".48" stop-color="#eeffff" stop-opacity=".7"/><stop offset=".5" stop-color="#b7f0ff" stop-opacity=".62"/><stop offset="1" stop-color="#fff" stop-opacity=".88"/></linearGradient>
+    <radialGradient id="ocean" cx=".32" cy=".22" r=".8"><stop stop-color="#c6ffff"/><stop offset=".35" stop-color="#37dbee"/><stop offset=".7" stop-color="#038cce"/><stop offset="1" stop-color="#034c98"/></radialGradient>
+    <linearGradient id="land" x2=".4" y2="1"><stop stop-color="#d4ff83"/><stop offset=".4" stop-color="#91e743"/><stop offset="1" stop-color="#339f36"/></linearGradient>
+    <radialGradient id="bubble" cx=".3" cy=".2" r=".8"><stop stop-color="white" stop-opacity=".9"/><stop offset=".25" stop-color="white" stop-opacity=".06"/><stop offset=".8" stop-color="#ecffff" stop-opacity=".06"/><stop offset="1" stop-color="white" stop-opacity=".65"/></radialGradient>
+    <linearGradient id="shine" x2="0" y2="1"><stop stop-color="white" stop-opacity=".85"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.7"><feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#004575" flood-opacity=".25"/></filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+    <clipPath id="round"><rect width="1200" height="560" rx="24"/></clipPath>
+    <clipPath id="planet"><circle cx="948" cy="257" r="155"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <path fill="url(#sky)" d="M0 0h1200v560H0z"/>
+    <g fill="white" opacity=".65" filter="url(#blur)">
+      <ellipse cx="135" cy="125" rx="155" ry="27"/><ellipse cx="220" cy="95" rx="75" ry="30"/>
+      <ellipse cx="760" cy="68" rx="128" ry="23"/><ellipse cx="1110" cy="345" rx="180" ry="40"/>
+    </g>
+    <path d="M-80 455Q145 298 464 447T1280 370V570H-80Z" fill="#d6f889"/>
+    <path d="M-30 476Q303 321 706 455T1230 393V560H-30Z" fill="url(#hill)"/>
+    <path d="M-30 543Q550 390 1250 524" fill="none" stroke="#edffc6" stroke-width="3" opacity=".5"/>
+    <path d="M-20 365Q402 551 1230 257" fill="none" stroke="white" stroke-opacity=".4" stroke-width="2"/>
+    <path d="M-20 386Q570 528 1230 222" fill="none" stroke="white" stroke-opacity=".25" stroke-width="9"/>
+    <g fill="url(#bubble)" stroke="#e0ffff" stroke-opacity=".75">
+      <circle cx="745" cy="145" r="28"/><circle cx="1138" cy="82" r="42"/><circle cx="1143" cy="432" r="23"/>
+      <circle cx="788" cy="403" r="17"/><circle cx="692" cy="61" r="11"/><circle cx="68" cy="485" r="16"/>
+    </g>
+    <rect x="46" y="61" width="688" height="364" rx="26" fill="url(#glass)" stroke="white" stroke-opacity=".85" stroke-width="2" filter="url(#shadow)"/>
+    <path d="M72 63H708Q732 63 732 88V146Q380 204 48 133V88Q48 63 72 63Z" fill="white" opacity=".27"/>
+    <g font-family="Segoe UI, Trebuchet MS, Arial, sans-serif" fill="#075c7a">
+      <text x="83" y="111" font-size="14" letter-spacing="4" font-weight="600">UN MUNDO DE CURIOSIDAD</text>
+      <text x="79" y="178" font-size="35" font-weight="400">Mi primera</text>
+      <text x="75" y="259" font-size="90" font-weight="700" letter-spacing="-4">Encarta</text>
+      <text x="83" y="303" font-size="20">Los recuerdos también se pueden explorar.</text>
+      <rect x="80" y="339" width="247" height="49" rx="24" fill="#0784a4" stroke="#fff" stroke-opacity=".9"/>
+      <path d="M104 341H303Q325 341 325 362H82Q82 341 104 341" fill="white" opacity=".18"/>
+      <text x="203" y="370" text-anchor="middle" fill="white" font-size="19" font-weight="600">Porteado por Astra</text>
+      <text x="352" y="370" font-size="15" letter-spacing="2">2009 → WEB</text>
+    </g>
+    <circle cx="948" cy="257" r="165" fill="#ddffff" opacity=".25"/>
+    <circle cx="948" cy="257" r="155" fill="url(#ocean)" stroke="#d9ffff" stroke-width="2" filter="url(#shadow)"/>
+    <g clip-path="url(#planet)">
+      <g stroke="#d9ffff" stroke-opacity=".22" fill="none" stroke-width="1.5">
+        <ellipse cx="948" cy="257" rx="78" ry="155"/><ellipse cx="948" cy="257" rx="130" ry="155"/>
+        <ellipse cx="948" cy="257" rx="155" ry="51"/><ellipse cx="948" cy="257" rx="155" ry="109"/>
+      </g>
+      <g fill="url(#land)" stroke="#d8ffad" stroke-width="1.5" stroke-linejoin="round">
+        <path d="M806 174l35-22 36 6 21-24 32 2 8 20-29 27 8 17-23 19-8 26-22-5-13-23-30-3-18-20Z"/>
+        <path d="M873 248l24 5 8 21 29 12 5 26-21 31-9 32-17 15-9-34-16-27 4-29-17-21Z"/>
+        <path d="M989 137l20 11 18-8 46 15 40 47-18 16-34-10-19 27-22-10-7-26-22-3-14-24Z"/>
+        <path d="M990 223l35 4 25 28-11 28-18 14-11 38-16 10-9-33-18-24-2-31Z"/>
+        <path d="M1063 326l27-11 20 22-9 22-29 1-17-17Z"/>
+      </g>
+      <ellipse cx="920" cy="160" rx="124" ry="75" fill="url(#shine)" transform="rotate(-18 920 160)"/>
+    </g>
+    <ellipse cx="948" cy="266" rx="195" ry="42" fill="none" stroke="white" stroke-opacity=".6" stroke-width="3" transform="rotate(-28 948 266)"/>
+    <g transform="translate(1050 405) rotate(-22)">
+      <path d="M0 0Q-68-101 12-110Q49-62 0 0" fill="url(#land)" stroke="#e2ffba" stroke-width="2"/>
+      <path d="M0 0Q17-91 77-77Q72-16 0 0" fill="url(#land)" stroke="#e2ffba" stroke-width="2"/>
+      <path d="M0 0L11-91M0 0L61-63" fill="none" stroke="#f2ffd4" stroke-width="2" opacity=".8"/>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif" fill="white">
+      <text x="49" y="517" font-size="15" letter-spacing="3">EXPLORAR · JUGAR · RECORDAR</text>
+      <text x="1149" y="517" text-anchor="end" font-size="13" letter-spacing="2">EDICIÓN EN ESPAÑOL</text>
+    </g>
+  </g>
+</svg>

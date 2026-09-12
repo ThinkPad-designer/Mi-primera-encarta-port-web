@@ -22,3 +22,17 @@ logs/
 !.env.example
 web/.openai/
 *.tsbuildinfo
+
+# Local credentials and private keys (never force-add these).
+.npmrc
+.netrc
+_netrc
+.git-credentials
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+credentials*.json
+service-account*.json
